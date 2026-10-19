@@ -22,7 +22,7 @@ TARGETS = {
 
 # 新增：群组数字 ID 签到列表
 GROUP_CHECKINS = [
-    (-1003219886860, "/checkin@DNSHEbot"),        # DNSHE域名
+#    (-1003219886860, "/checkin@DNSHEbot"),        # DNSHE域名
     (-1003230979075, "/checkin@DNSHEbot"),        # DNSHE域名
 ]
 
